@@ -1,0 +1,59 @@
+		.background-blue{
+         border:1px solid white;
+         flex-wrap:wrap;
+         background-color:#054A91;
+		 height:100px;
+         }
+		 .background-navy{
+		 border:1px solid white;
+         flex-wrap:wrap;
+         background-color:#011427;
+		 height:800px;
+		 }
+		 
+		 .background-black{
+         border:0px solid white;
+         flex-wrap:wrap;
+         background-color:#000000;
+		 height:50px;
+         }
+		 body{
+		background-color:#000000;
+		 }
+		 div-bar{
+			 background:black;
+			 color:white;
+			 font-size:40px;
+			 position:fixed;
+			 top:0;
+			 width:100%;
+			 height:8%;
+		 }
+		 h1{
+			 color:white;
+			 align:center;
+			 margin-left:40px
+		 }
+		 h2{
+			 color:white;
+			 align:center;
+		 }
+		 p{
+			 color:white;
+			 margin-left:40px
+		 }
+		 a{
+			 color:white;
+		 }
+		 img{
+			 margin-left:40px
+		 }
+		 .container{
+			 vertical-align: top;
+			 display: inline-block;
+		     text-align: center;
+		 }
+		 .message{
+			 height:200px;
+			 width:500px
+		 }
